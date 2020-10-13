@@ -1004,13 +1004,13 @@ demo:
         exportingBase: Viedään koko tukikohta kuvana
     settingNotAvailable: Ei saatavilla demoversiossa.
 tips:
-    - The hub accepts input of any kind, not just the current shape!
-    - Make sure your factories are modular - it will pay out!
-    - Don't build too close to the hub, or it will be a huge chaos!
-    - If stacking does not work, try switching the inputs.
-    - You can toggle the belt planner direction by pressing <b>R</b>.
-    - Holding <b>CTRL</b> allows dragging of belts without auto-orientation.
-    - Ratios stay the same, as long as all upgrades are on the same Tier.
+    - Hubi hyväksyy kaikenlaiset ei pelkästään nykyhetkistä!
+    - Pidä huolta että tehtaasi on modudulaarinen - se maksaa itsensä!
+    - Älä rakenna liian lähelle hubia , tai siitä tule iso kaaos!
+    - Jos pinoaminen ei toimi, yritä vaihtaa sisääntuloja.
+    - Pystyt Vaihtamaan hihna suunnittelijan suuntaa painamalla <b>R</b>.
+    - Painamalla <b>CTRL</b> antaa sinun vetää hihnoja ilman automaattista suuntaa
+    - Annokset pysyvät samana , niin kauan kun kaikki päivitykset ovat samalla tasollau.
     - Serial execution is more efficient than parallel.
     - You will unlock more variants of buildings later in the game!
     - You can use <b>T</b> to switch between different variants.
